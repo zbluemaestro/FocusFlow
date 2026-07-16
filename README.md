@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍅 FocusFlow
+# FocusFlow
 
 **Elevate your study sessions, conquer your tasks, and flow through your coursework.**
 
