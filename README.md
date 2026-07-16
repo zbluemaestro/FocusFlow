@@ -1,20 +1,43 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+# 🍅 FocusFlow
+
+**Elevate your study sessions, conquer your tasks, and flow through your coursework.**
+
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 📖 About FocusFlow
 
-View your app in AI Studio: https://ai.studio/apps/6a0e7be8-00f5-4d2d-8085-90e7bdb45745
+FocusFlow is a comprehensive productivity platform designed specifically for students. By combining the proven Pomodoro technique with advanced task management, collaborative features, and gamification, FocusFlow keeps you motivated and locked in during your most demanding study grinds. 
 
-## Run Locally
+## ✨ Key Features
 
-**Prerequisites:**  Node.js
+*   **Customizable Pomodoro Timer:** Tailor your work and break intervals to suit your optimal focus rhythm.
+*   **Integrated Task Management:** Create, organize, and check off your study to-do lists without ever leaving the timer interface.
+*   **Collaborative Study Rooms:** Join virtual study sessions with peers to maintain accountability and focus together.
+*   **Detailed Analytics & Statistics:** Track your total study hours, average session lengths, and peak productivity times.
+*   **Gamification & Motivation:** Maintain study streaks, earn badges, and climb the global/friends leaderboard to turn productivity into a rewarding game.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Getting Started
+
+Follow these instructions to get a local copy of FocusFlow up and running on your machine.
+
+### Prerequisites
+
+Ensure you have the following installed before proceeding:
+*   [Node.js](https://nodejs.org/) (v16.0 or higher recommended)
+*   npm (comes with Node.js) or yarn
+
+### Installation
+
+**1. Clone the repository:**
+```bash
+git clone [https://github.com/yourusername/FocusFlow.git](https://github.com/yourusername/FocusFlow.git)
+cd FocusFlow
