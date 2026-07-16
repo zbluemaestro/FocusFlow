@@ -1,0 +1,6 @@
+{
+  "name": "Pomodoro Study Club",
+  "description": "A gamified Pomodoro timer with collaborative study rooms, structured task management, statistics tracking, streaks, levels, and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
